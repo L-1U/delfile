@@ -6,7 +6,7 @@ with open("requirements.txt", "r", encoding="utf-8") as f:
     requirements = f.read().splitlines()
 setuptools.setup(
     name="delfile_bydate",
-    version="0.0.1",
+    version="0.0.7",
     scripts=['delfile'],
     author="panu00x",
     author_email="lewpanu@gmail.com",
