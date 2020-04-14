@@ -27,3 +27,8 @@ delfile --part=/User/Document --date=2020/01
 ```
 delfile --part=/User/Document --date=2020/01/07
 ```
+
+## Windows
+
+เข้าไปที่โฟลเดอร์ Script ของโปรแกรม Python ที่ติดตั้งไว้
+แก้ไขชื่อไฟล์ 'delfile' เป็น 'delfile.py'
